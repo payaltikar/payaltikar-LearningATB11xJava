@@ -1,4 +1,4 @@
-package ex_16_Arrays_Two_Dimensional;
+package ex_17_Arrays_Two_Dimensional;
 
 public class Lab01_Array_2D_PD {
     public static void main(String[] args) {

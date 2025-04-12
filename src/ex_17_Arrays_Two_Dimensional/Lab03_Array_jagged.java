@@ -1,4 +1,4 @@
-package ex_16_Arrays_Two_Dimensional;
+package ex_17_Arrays_Two_Dimensional;
 
 // Jagged Array every row has diffrent elements
 
