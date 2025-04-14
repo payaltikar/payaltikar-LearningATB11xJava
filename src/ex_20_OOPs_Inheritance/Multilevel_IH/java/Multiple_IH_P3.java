@@ -4,9 +4,9 @@ public class Multiple_IH_P3 {
     public static void main(String[] args) {
 
 
-//        Son s1 = new GrandFather();
-//        Son s1 = new Father();
-        Son amit = new Son();
+//        Son s1 = new GrandFather(); ---> Not valid
+//        Son s1 = new Father();      ---> Not valid
+          Son amit = new Son();
         amit.s();
         amit.f();
         amit.gf();
@@ -21,7 +21,6 @@ public class Multiple_IH_P3 {
 
         GrandFather grandFather = new Son();
         grandFather.home();
-
 
 
     }

@@ -2,9 +2,6 @@ package ex_20_OOPs_Inheritance.Multilevel_IH.java;
 
 public class Multiple_IH_P1 {
     public static void main(String[] args) {
-
-
-
         GrandFather gf = new GrandFather();
         gf.gf();
 
@@ -16,17 +13,11 @@ public class Multiple_IH_P1 {
 
         System.out.println(" -- ");
 
-
-
         Son s1 = new Son();
         s1.gf();
         s1.f();
         s1.s();
-
-
-
-
-
+        // Son can inherit all the properties and behaviour
     }
 
 }
