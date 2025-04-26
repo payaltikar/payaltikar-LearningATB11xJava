@@ -1,6 +1,6 @@
 package ex_32_Collection_Frameworks.LIST;
 
-public class Lab01_WhyNotArray_UseList {
+public class Lab00_WhyNotArray_UseList {
     public static void main(String[] args) {
         Integer[] arr=new Integer[10];
         arr[0]=12;
